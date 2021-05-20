@@ -16,7 +16,7 @@
 			<a href="interests.htm">INTERESTS</a>
 			<a href="donate.htm">DONATE</a>
 		</div>
-		<h1>GISLAINE PROFILE</h1>
+		<h1>WILLY PROFILE</h1>
 	</header>
 	<div>
 		<nav>
