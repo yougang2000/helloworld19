@@ -53,7 +53,7 @@
 				<p>Cloud/DevOps Engineer/Linux System Engineer</p>
 				<p>AGACNP-BC</p>
 				(786)-521-9948
-				<p><a href="mailto:gislaine.djomokouake@mga.edu">gislaine.djomokouake@mga.edu</a></p>
+				<p><a href="mailto:willy.yougangtchouta@mga.edu">willy.yougangtchouta@mga.edu</a></p>
 				<p>To God Be the Glory</p>
 			</div>
 	</div>
